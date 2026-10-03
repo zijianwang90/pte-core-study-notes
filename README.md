@@ -8,16 +8,18 @@
 
 | 题型 | 内容 |
 | --- | --- |
-| Describe Image | 27 道题、口语参考答案与作答框架 |
-| Respond to a Situation (RTS) | 50 道题库与作答框架 |
-| Summarize Spoken Text (SST) | 8 道题原文与 20–30 词参考答案 |
-| Summarize Written Text (SWT) | 15 道题原文与高分范文 |
-| Write Email | 13 道题题干与高分答案 |
+| Describe Image | 38 道去重题目、统一模板与口语参考答案 |
+| Respond to a Situation (RTS) | 58 道去重题库与统一作答框架 |
+| Summarize Spoken Text (SST) | 18 个去重主题、网页 transcript 与 20–30 词参考答案 |
+| Summarize Written Text (SWT) | 统一作答框架、38 个去重主题原文与高分参考范文 |
+| Write Email | 23 道去重题目、作答框架与高分参考答案 |
+| Anki 冲刺复习 | 113 张卡片，正面标注题型，含 DI 原图与分题型子牌组 |
 
 ## 文件
 
-- [Describe Image：27 题与口语参考答案](./PTE_Core_Describe_Image_27题与口语参考答案.md)
-- [RTS：50 题库与作答框架](./PTE_Core_RTS_50题库与作答框架.md)
-- [SST：8 题原文与参考答案](./PTE_Core_SST_8题原文与20-30词高分参考答案.md)
-- [SWT：15 题原文与高分范文](./PTE_Core_SWT_15题原文与高分范文.md)
-- [Write Email：13 题题干与高分答案](./PTE_Core_Write_Email_13题题干与高分答案.md)
+- [Describe Image：38 题统一模板与口语参考答案](./PTE_Core_Describe_Image_38题与统一模板参考答案.md)
+- [RTS：58 题去重题库与统一作答框架](./PTE_Core_RTS_58题库与统一作答框架.md)
+- [SST：18 个去重主题、网页 transcript 与参考答案](./PTE_Core_SST_18题去重整理与20-30词高分参考答案.md)
+- [SWT：统一作答框架、38 个去重主题原文与高分参考范文](./PTE_Core_SWT_38题去重整理与统一框架高分参考答案.md)
+- [Write Email：23 题去重题库与高分参考答案](./PTE_Core_Write_Email_23题去重题库与高分参考答案.md)
+- [下载 Anki 冲刺复习牌组](./PTE_Core_Anki_冲刺复习.apkg) · [使用说明](./PTE_Core_Anki_冲刺复习_使用说明.md)
